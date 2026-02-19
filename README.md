@@ -46,5 +46,16 @@ The objective of this project is to demonstrate **data cleaning, modeling, visua
 ---
 
 ## 📷 Dashboard Preview
-*(Add screenshots of your Power BI dashboard here)*
+
+### 1. 
+![bi 1](https://github.com/user-attachments/assets/f729e8bc-b9c4-4b86-801f-9dfcbe20da15)
+
+### 2.
+![bi 2](https://github.com/user-attachments/assets/13919609-dae5-4b7f-9c15-062f06e0d152)
+
+### 3.
+![bi 3](https://github.com/user-attachments/assets/4beb0e71-471c-4875-add6-bd74af91e1da)
+
+### 4.
+![bi 4](https://github.com/user-attachments/assets/435a4924-2ff3-4af2-8c32-c29463fe487e)
 
