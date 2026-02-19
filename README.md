@@ -59,3 +59,6 @@ The objective of this project is to demonstrate **data cleaning, modeling, visua
 ### 4.
 ![bi 4](https://github.com/user-attachments/assets/435a4924-2ff3-4af2-8c32-c29463fe487e)
 
+### 5.
+![PROJECT 05](https://github.com/user-attachments/assets/28e5e4a8-bd3b-4801-91f5-1c592e621e97)
+
