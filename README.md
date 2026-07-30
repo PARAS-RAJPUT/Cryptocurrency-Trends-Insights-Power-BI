@@ -20,8 +20,8 @@ The objective of this project is to demonstrate **data cleaning, modeling, visua
 ---
 
 ## Dashboard Features
-- Time-based trend analysis
-- Price comparison of cryptocurrencies
+- ``Time-based trend analysis``
+- ``Price comparison of cryptocurrencies``
 - Volume and market cap insights
 - Interactive slicers and filters
 - KPI cards for quick metrics
