@@ -12,8 +12,7 @@ The objective of this project is to demonstrate **data cleaning, modeling, visua
 - ``**Source:** Mendeley Data  ``
 - ``**Domain:** Cryptocurrency / Financial Markets  ``
 - ``**Format:** CSV  ``
-- ``**Description:**  ``
-  The dataset contains historical cryptocurrency data including attributes such as price, market capitalization, volume, and timestamps.
+- ``**Description:** The dataset contains historical cryptocurrency data including attributes such as price, market capitalization, volume, and timestamps. ``
 
 > This dataset is used strictly for academic and educational purposes.
 
