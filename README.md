@@ -1,4 +1,4 @@
-# 📊 Cryptocurrency Market Analysis Dashboard (Power BI)
+# Cryptocurrency Market Analysis Dashboard (Power BI)
 
 ## Project Overview
 This project presents an interactive **Power BI dashboard** built using a cryptocurrency dataset sourced from **Mendeley Data**.  
