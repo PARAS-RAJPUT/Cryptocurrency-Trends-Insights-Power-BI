@@ -22,10 +22,10 @@ The objective of this project is to demonstrate **data cleaning, modeling, visua
 ## Dashboard Features
 - ``Time-based trend analysis``
 - ``Price comparison of cryptocurrencies``
-- Volume and market cap insights
-- Interactive slicers and filters
-- KPI cards for quick metrics
-- Line charts, bar charts, and tables for visualization
+- ``Volume and market cap insights``
+- ``Interactive slicers and filters``
+- ``KPI cards for quick metrics``
+- ``Line charts, bar charts, and tables for visualization``
 
 ---
 
@@ -38,10 +38,10 @@ The objective of this project is to demonstrate **data cleaning, modeling, visua
 ---
 
 ## Key Insights
-- Identification of high-performing cryptocurrencies
-- Market trend analysis over time
-- Volatility comparison among selected cryptocurrencies
-- Volume-based market behavior patterns
+- ``Identification of high-performing cryptocurrencies``
+- ``Market trend analysis over time``
+- ``Volatility comparison among selected cryptocurrencies``
+- ``Volume-based market behavior patterns``
 
 ---
 
@@ -59,6 +59,6 @@ The objective of this project is to demonstrate **data cleaning, modeling, visua
 ### 4.
 ![bi 4](https://github.com/user-attachments/assets/435a4924-2ff3-4af2-8c32-c29463fe487e)
 
-### 5. (Relationship Model Between Table and DATETIME)
+### 5. Relationship Model Between Table and DATETIME
 ![PROJECT 05](https://github.com/user-attachments/assets/28e5e4a8-bd3b-4801-91f5-1c592e621e97)
 
