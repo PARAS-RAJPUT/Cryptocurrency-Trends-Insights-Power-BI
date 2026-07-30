@@ -30,10 +30,10 @@ The objective of this project is to demonstrate **data cleaning, modeling, visua
 ---
 
 ## Tools & Technologies
-- **Power BI Desktop**
-- **Power Query** (for data cleaning & transformation)
-- **DAX** (for calculated measures)
-- **Microsoft Excel / CSV**
+- ``**Power BI Desktop**``
+- ``**Power Query** (for data cleaning & transformation)``
+- ``**DAX** (for calculated measures)``
+- ``**Microsoft Excel / CSV**``
 
 ---
 
